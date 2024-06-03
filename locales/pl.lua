@@ -1,0 +1,3 @@
+Language['pl'] = {
+    ['test'] = 'teściwo'
+}

@@ -1,0 +1,1 @@
+VC = exports['V-Core']:getCoreObject()
